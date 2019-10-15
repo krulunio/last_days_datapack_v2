@@ -1,0 +1,47 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"conditions": [
+				{
+					"condition": "minecraft:inverted",
+					"term": {
+						"condition": "minecraft:match_tool",
+						"predicate": {
+							"item": "minecraft:shears"
+						}
+					}
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:oak_leaves",
+					"weight": 2
+				},
+				{
+					"type": "empty",
+					"weight": 2
+				}
+			]
+		},
+		{
+			"conditions": [
+				{
+					"condition": "minecraft:match_tool",
+					"predicate": {
+						"item": "minecraft:shears"
+					}
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:oak_leaves"
+				}
+			]
+		}
+	]
+}

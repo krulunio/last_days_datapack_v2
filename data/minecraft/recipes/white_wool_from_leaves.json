@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"a",
+		"a"
+	],
+	"key": {
+		"a": {
+			"tag": "minecraft:scrap_shack_metals"
+		}
+	},
+	"result": {
+		"item": "minecraft:white_wool",
+		"count": 1
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ac",
+        " b",
+        " b"
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:acacia_planks"
+        },
+        "b": {
+            "tag": "minecraft:metal_scraps"
+        },
+        "c": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_hoe",
+        "count": 1
+    }
+}

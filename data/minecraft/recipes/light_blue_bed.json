@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"group": "dyed_bed",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:bedrock"
+		}
+	},
+	"result": {
+		"item": "minecraft:light_blue_bed",
+		"count": 1
+	}
+}

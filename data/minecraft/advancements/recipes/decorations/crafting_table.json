@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:crafting_table"
+    ]
+  },
+  "criteria": {
+    "has_metal_scraps": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:metal_scraps"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:crafting_table"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_metal_scraps",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aba",
+		"aba",
+		" b "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:lime_carpet"
+		},
+		"b": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:lime_banner",
+		"count": 1
+	}
+}

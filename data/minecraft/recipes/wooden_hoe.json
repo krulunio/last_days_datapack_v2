@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa",
+		" b",
+		" b"
+	],
+	"key": {
+		"a": {
+			"tag": "minecraft:metal_scraps"
+		},
+		"b": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:wooden_hoe",
+		"count": 1
+	}
+}

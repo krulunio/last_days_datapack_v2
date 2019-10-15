@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:granite" },
+		{ "item": "minecraft:granite" },
+		{ "item": "minecraft:granite" },
+		{ "item": "minecraft:clay" }
+	],
+	"result": {
+		"item": "minecraft:polished_granite",
+		"count": 3
+	}
+}

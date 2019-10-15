@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"group": "dyed_bed",
+	"pattern": [
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:birch_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:brown_bed",
+		"count": 1
+	}
+}

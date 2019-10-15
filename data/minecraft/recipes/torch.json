@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:glowstone_dust"
+		},
+		"b": {
+			"tag": "minecraft:metal_scraps"
+		},
+		"c": {
+			"tag": "minecraft:coals"
+		}
+	},
+	"result": {
+		"item": "minecraft:torch",
+		"count": 1
+	}
+}

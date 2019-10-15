@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_trapdoor",
+		"count": 3
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"bxb",
+		"byb"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:white_wool"
+		},
+		"b": {
+			"item": "minecraft:stone"
+		},
+		"x": {
+			"item": "minecraft:iron_ingot"
+		},
+		"y": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:piston",
+		"count": 1
+	}
+}

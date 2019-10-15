@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:white_wool_from_leaves"
+    ]
+  },
+  "criteria": {
+    "has_scrap_shack_metals": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:scrap_shack_metals"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:white_wool_from_leaves"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_scrap_shack_metals",
+      "has_the_recipe"
+    ]
+  ]
+}

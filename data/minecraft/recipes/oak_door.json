@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa",
+		"aa",
+		"aa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:oak_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:oak_door",
+		"count": 6
+	}
+}

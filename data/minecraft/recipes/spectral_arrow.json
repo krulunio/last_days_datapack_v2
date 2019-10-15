@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:glowstone_dust"
+		},
+		"b": {
+			"tag": "minecraft:coals"
+		},
+		"c": {
+			"item": "minecraft:arrow"
+		}
+	},
+	"result": {
+		"item": "minecraft:spectral_arrow",
+		"count": 1
+	}
+}

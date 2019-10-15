@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa",
+		"aa",
+		"aa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:jungle_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:jungle_door",
+		"count": 6
+	}
+}

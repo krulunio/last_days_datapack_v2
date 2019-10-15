@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"tag": "minecraft:scrap_shack_stilt"
+		}
+	},
+	"result": {
+		"item": "minecraft:stick",
+		"count": 4
+	}
+}

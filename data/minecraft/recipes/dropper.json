@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"a a",
+		"aba"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone"
+		},
+		"b": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:dropper",
+		"count": 1
+	}
+}

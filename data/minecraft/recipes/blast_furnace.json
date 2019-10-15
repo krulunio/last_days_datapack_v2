@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"cac",
+		"aba",
+		"cac"
+	],
+	"group": "furnace",
+	"key": {
+		"a": {
+			"item": "minecraft:cobblestone"
+		},
+		"b": {
+			"item": "minecraft:furnace"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:blast_furnace",
+		"count": 1
+	}
+}

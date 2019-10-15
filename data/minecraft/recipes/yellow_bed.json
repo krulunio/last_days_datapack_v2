@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "dyed_bed",
+	"pattern": [
+		" a ",
+		"aba",
+		" a "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:leather"
+		},
+		"b": {
+			"item": "minecraft:brown_bed"
+		}
+	},
+	"result": {
+		"item": "minecraft:yellow_bed",
+		"count": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"a a",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"tag": "minecraft:scrap_shack_metals"
+		}
+	},
+	"result": {
+		"item": "minecraft:oak_planks",
+		"count": 2
+	}
+}

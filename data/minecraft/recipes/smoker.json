@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"bab",
+		"aba",
+		"bab"
+	],
+	"group": "furnace",
+	"key": {
+		"a": {
+			"item": "minecraft:cobblestone"
+		},
+		"b": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:smoker",
+		"count": 1
+	}
+}

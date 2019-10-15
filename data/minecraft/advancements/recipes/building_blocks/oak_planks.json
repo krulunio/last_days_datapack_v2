@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:oak_planks"
+    ]
+  },
+  "criteria": {
+    "has_scrap_shack_metals": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:scrap_shack_metals"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:oak_planks"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_scrap_shack_metals",
+      "has_the_recipe"
+    ]
+  ]
+}

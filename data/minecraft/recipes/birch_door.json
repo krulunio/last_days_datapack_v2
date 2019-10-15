@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa",
+		"aa",
+		"aa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:birch_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:birch_door",
+		"count": 6
+	}
+}
