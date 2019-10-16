@@ -1,20 +1,13 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "aaa",
-        "aba",
-        "aaa"
-    ],
-    "key": {
-        "a": {
-            "item": "minecraft:andesite"
-        },
-        "b": {
-            "item": "minecraft:stone"
-        }
-    },
-    "result": {
-        "item": "minecraft:polished_andesite",
-        "count": 8
-    }
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:andesite" },
+		{ "item": "minecraft:andesite" },
+		{ "item": "minecraft:andesite" },
+		{ "item": "minecraft:cobblestone" }
+	],
+	"result": {
+		"item": "minecraft:polished_andesite",
+		"count": 3
+	}
 }
